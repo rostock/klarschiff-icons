@@ -3,7 +3,11 @@
 
 ## Background
 
-The set of icons presented here is used within the **Klarschiff** project but can be used, of course, everywhere else as well. The set consists of a) map icons both for inactive and active states of the features they are representing, b) icons for creating lists or registers, and c) some special icons for mobile UIs.
+The set of icons presented here is used within the **Klarschiff** project but can be used, of course, everywhere else as well. The set consists of
+
+* map icons both for inactive and active states of the features they are representing,
+* icons for creating lists or registers,
+* and some special icons for mobile UIs.
 
 
 ## Formats
