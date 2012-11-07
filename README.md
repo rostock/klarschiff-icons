@@ -17,7 +17,7 @@ All icons are available as [Scalable Vector Graphics SVG)](http://en.wikipedia.o
 
 ## License
 
-The icons are published under the [public domain](http://en.wikipedia.org/wiki/Public_domain), i.e. they are completely free of any license.
+[Creative Commons Attribution License v3.0](http://creativecommons.org/licenses/by/3.0/)
 
 
 ## Contact
