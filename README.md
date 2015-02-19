@@ -3,7 +3,7 @@
 
 ## Background
 
-The set of icons presented here is used within the **Klarschiff** project but can be used, of course, everywhere else as well. The set consists of
+This set of icons originally was designed in the course of the **Klarschiff** project but can be used, of course, for any purpose. The set consists of
 
 * map icons both for inactive and active states of the features they are representing,
 * icons for creating lists or registers,
@@ -12,7 +12,7 @@ The set of icons presented here is used within the **Klarschiff** project but ca
 
 ## Formats
 
-All icons are available as [Scalable Vector Graphics SVG)](http://en.wikipedia.org/wiki/Svg) and [Portable Network Graphics (PNG)](http://en.wikipedia.org/wiki/Portable_Network_Graphics).
+All icons are available as [Scalable Vector Graphics (SVG)](http://en.wikipedia.org/wiki/Svg) and [Portable Network Graphics (PNG)](http://en.wikipedia.org/wiki/Portable_Network_Graphics).
 
 
 ## License
