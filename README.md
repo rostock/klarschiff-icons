@@ -1,6 +1,6 @@
 # *Klarschiff*-Icons
 
-A set of icons (not only) designed for the Klarschiff project
+A set of icons (not only) designed for the *Klarschiff* project
 
 ## Background
 
