@@ -1,6 +1,6 @@
 # *Klarschiff* – Icons
 
-A set of icons (not only) designed for the *Klarschiff* project – view it in production: https://demo.klarschiff-hro.de
+A set of icons (not only) designed for the [*Klarschiff*](https://github.com/bfpi/klarschiff-backoffice) project – view it in production: https://demo.klarschiff-hro.de
 
 ## Background
 
@@ -12,7 +12,3 @@ This set of icons originally was designed in the course of the *Klarschiff* proj
 ## Formats
 
 All icons are available both as [Scalable Vector Graphics (SVG)](http://en.wikipedia.org/wiki/Svg) and [Portable Network Graphics (PNG)](http://en.wikipedia.org/wiki/Portable_Network_Graphics).
-
-## Contact
-
-Feel free to contact the creators of this set of icons via e-mail: <klarschiff-hro@rostock.de>.
