@@ -1,6 +1,6 @@
 # *Klarschiff* – Icons
 
-A set of icons (not only) designed for the [*Klarschiff*](https://github.com/bfpi/klarschiff-backoffice) project – view it in production: https://demo.klarschiff-hro.de
+A set of icons (not only) designed for the [*Klarschiff*](https://github.com/bfpi/klarschiff-backoffice) project
 
 ## Background
 
